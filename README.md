@@ -1,9 +1,15 @@
 # FFG SWRPG Character Journal
-Character Journal for FFG Star Wars Game. Contains
-
+Character Journal for FFG Star Wars Game. Contains PDF (spreads and individual pages) as well as the original files
 Inspired by [Field Notes 5E Gaming Journals](https://fieldnotesbrand.com/products/5e-gaming-journals)
 
-## Original files
+## Sample Pages
+![Cover](https://github.com/anthonyscorrea/swrpg_charcter_journal/blob/0cf2fd31d420e69ba50dff27ab4e9c09d7f8ce2b/sample%20images/SWRPG%20Character%20Journal%20(8x5.5)%20-%20Cover.jpg)
+
+![About Page](https://github.com/anthonyscorrea/swrpg_charcter_journal/blob/0cf2fd31d420e69ba50dff27ab4e9c09d7f8ce2b/sample%20images/SWRPG%20Character%20Journal%20(8x5.5)%20-%20About.jpg)
+
+![Skills Page](https://github.com/anthonyscorrea/swrpg_charcter_journal/blob/0cf2fd31d420e69ba50dff27ab4e9c09d7f8ce2b/sample%20images/SWRPG%20Character%20Journal%20(8x5.5)%20-%20Skills.jpg)
+
+## File format
 Created using [Affinity Publisher](https://affinity.serif.com/en-us/publisher/)
 
 ## Credits
